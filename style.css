@@ -1,0 +1,62 @@
+/*section*/
+
+h2{
+    font-size: 32px;
+    font-weight: bold;
+    width: 226px;
+    height: 38px;
+    margin-left: 70px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.images{
+    display: grid;
+    grid-gap: 35px;
+    grid-template-columns: 159px 159px 159px;
+    grid-template-rows: 62px 62px 62px;
+}
+
+p{
+    font-size: 16px;
+    text-align: left;
+}
+
+.dot{
+    display: inline-block;
+    background-color: #0A22F4;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    margin: 10px;
+}
+
+.flex-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.second-flex-box{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+.text-div{
+    width: 450px;
+    height: 100px;
+}
+
+.grey-dot{
+    background-color: gray;
+}
+
+.dots{
+    margin-right: 70px;
+}
+
+section{
+    margin-top: 250px;
+}
