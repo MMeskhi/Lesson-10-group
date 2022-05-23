@@ -168,3 +168,50 @@ p{
 section{
     margin-top: 250px;
 }
+.projects-footer{
+    background-color: #0A22F4;
+    height: 900px;
+    width: 100%;   
+    margin-top: 60px;
+}
+.footer-title h2{
+    color: white;
+    margin-left: 80px;
+   
+}
+.text-footer {
+    width: 450px;
+    height: 100px;
+    color: #ffffff;
+    margin-top: 200px;
+    margin-left: 80px;
+}
+.Map{
+    margin-top: 58px;
+}
+.form-fields input,
+textarea{
+    width: 463px;
+    height: 60px;
+    background-color: transparent;
+    color: white;
+    border: none;
+    margin-bottom: 40px;
+    border-bottom: 1px solid white;
+}
+.textarea{
+    display: block;
+    resize: none;
+}
+.forms{
+   margin-top: -280px;
+    margin-left: 800px;
+
+}
+.number{
+    font-size: 22px;
+}
+.mail{
+    font-size: 22px;
+    margin-bottom: 80px;
+}
